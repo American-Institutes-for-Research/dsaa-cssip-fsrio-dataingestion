@@ -1,0 +1,670 @@
+
+<row>
+<APPLICATION_ID>7522925</APPLICATION_ID>
+<ACTIVITY>R01</ACTIVITY>
+<ADMINISTERING_IC>HL</ADMINISTERING_IC>
+<APPLICATION_TYPE>1</APPLICATION_TYPE>
+<ARRA_FUNDED xsi:nil="true"/>
+<BUDGET_START>09/05/2008</BUDGET_START>
+<BUDGET_END>08/31/2009</BUDGET_END>
+<FOA_NUMBER>PA-07-70</FOA_NUMBER>
+<FULL_PROJECT_NUM>1R01HL090863-01A1</FULL_PROJECT_NUM>
+<FUNDING_ICs>NHLBI:813665\</FUNDING_ICs>
+<FY>2008</FY>
+<NIH_SPENDING_CATS>
+<CATEGORY>American Indians / Alaska Natives</CATEGORY>
+<CATEGORY>Cardiovascular</CATEGORY>
+<CATEGORY>Clinical Research</CATEGORY>
+<CATEGORY>Clinical Research - Extramural</CATEGORY>
+<CATEGORY>Diabetes</CATEGORY>
+<CATEGORY>Food Safety</CATEGORY>
+<CATEGORY>Heart Disease</CATEGORY>
+</NIH_SPENDING_CATS>
+<ORG_CITY>BALTIMORE</ORG_CITY>
+<ORG_COUNTRY>UNITED STATES</ORG_COUNTRY>
+<ORG_DISTRICT>07</ORG_DISTRICT>
+<ORG_DUNS>045911138</ORG_DUNS>
+<ORG_DEPT>PUBLIC HEALTH &amp;PREV MEDICINE</ORG_DEPT>
+<ORG_FIPS>US</ORG_FIPS>
+<ORG_STATE>MD</ORG_STATE>
+<ORG_ZIPCODE>21218</ORG_ZIPCODE>
+<IC_NAME>NATIONAL HEART, LUNG, AND BLOOD INSTITUTE</IC_NAME>
+<ORG_NAME>JOHNS HOPKINS UNIVERSITY</ORG_NAME>
+<PIS>
+<PI>
+<PI_NAME>NAVAS-ACIEN, ANA </PI_NAME>
+<PI_ID>8696712</PI_ID>
+</PI>
+</PIS>
+<PROJECT_TERMS>
+<TERM>4H-Imidazol-4-one, 2-amino-1,5-dihydro-1-methyl-</TERM>
+<TERM>Aberrant Chromosome</TERM>
+<TERM>Abnormalities, Chromosomal</TERM>
+<TERM>Active Follow-up</TERM>
+<TERM>Affect</TERM>
+<TERM>Age</TERM>
+<TERM>Age-Years</TERM>
+<TERM>Apoplexy</TERM>
+<TERM>Arizona</TERM>
+<TERM>Arsenates</TERM>
+<TERM>Arsenic</TERM>
+<TERM>Arsenites</TERM>
+<TERM>Articulation</TERM>
+<TERM>Assay</TERM>
+<TERM>Atheroscleroses</TERM>
+<TERM>Atherosclerosis</TERM>
+<TERM>Atherosclerotic Cardiovascular Disease</TERM>
+<TERM>Benefits and Risks</TERM>
+<TERM>Bioassay</TERM>
+<TERM>Biologic Assays</TERM>
+<TERM>Biological</TERM>
+<TERM>Biological Assay</TERM>
+<TERM>Biotransformation</TERM>
+<TERM>Bladder</TERM>
+<TERM>Blood</TERM>
+<TERM>Blood Plasma</TERM>
+<TERM>CREA</TERM>
+<TERM>Cacodylate</TERM>
+<TERM>Cardiovascular</TERM>
+<TERM>Cardiovascular Body System</TERM>
+<TERM>Cardiovascular Diseases</TERM>
+<TERM>Cardiovascular system</TERM>
+<TERM>Cardiovascular system (all sites)</TERM>
+<TERM>Cerebral Stroke</TERM>
+<TERM>Cerebrovascular Apoplexy</TERM>
+<TERM>Cerebrovascular Stroke</TERM>
+<TERM>Cerebrovascular accident</TERM>
+<TERM>Chromatography, High Performance Liquid</TERM>
+<TERM>Chromatography, High Pressure Liquid</TERM>
+<TERM>Chromatography, High Speed Liquid</TERM>
+<TERM>Chromosomal Aberrations</TERM>
+<TERM>Chromosomal Alterations</TERM>
+<TERM>Chromosome Aberrations</TERM>
+<TERM>Chromosome Alterations</TERM>
+<TERM>Chromosome Anomalies</TERM>
+<TERM>Chromosome abnormality</TERM>
+<TERM>Chronic</TERM>
+<TERM>Clinical</TERM>
+<TERM>Cohort Studies</TERM>
+<TERM>Communities</TERM>
+<TERM>Comorbidity</TERM>
+<TERM>Concurrent Studies</TERM>
+<TERM>Coronary Disease</TERM>
+<TERM>Coronary heart disease</TERM>
+<TERM>Coupled</TERM>
+<TERM>Cox Proportional Hazards Models</TERM>
+<TERM>Creatinine</TERM>
+<TERM>Cytogenetic Aberrations</TERM>
+<TERM>Cytogenetic Abnormalities</TERM>
+<TERM>Data</TERM>
+<TERM>Development</TERM>
+<TERM>Diabetes Mellitus</TERM>
+<TERM>Dimethylarsinate</TERM>
+<TERM>Disease</TERM>
+<TERM>Disease regression</TERM>
+<TERM>Disorder</TERM>
+<TERM>Dose</TERM>
+<TERM>ENPT</TERM>
+<TERM>Elements</TERM>
+<TERM>End Point</TERM>
+<TERM>EndPointCode</TERM>
+<TERM>Endpoints</TERM>
+<TERM>Epidemiologic Research</TERM>
+<TERM>Epidemiologic Studies</TERM>
+<TERM>Epidemiological Studies</TERM>
+<TERM>Epidemiology Research</TERM>
+<TERM>Ethnic group</TERM>
+<TERM>Evaluation</TERM>
+<TERM>Exposure to</TERM>
+<TERM>Formosa</TERM>
+<TERM>Freezing</TERM>
+<TERM>Funding</TERM>
+<TERM>General Population</TERM>
+<TERM>General Public</TERM>
+<TERM>Generations</TERM>
+<TERM>HPLC</TERM>
+<TERM>Heart</TERM>
+<TERM>High Pressure Liquid Chromatography</TERM>
+<TERM>High Prevalence</TERM>
+<TERM>Human</TERM>
+<TERM>Human, General</TERM>
+<TERM>Incidence</TERM>
+<TERM>Individual</TERM>
+<TERM>Institutes</TERM>
+<TERM>Intermediary Metabolism</TERM>
+<TERM>Joints</TERM>
+<TERM>Laboratories</TERM>
+<TERM>Lesion</TERM>
+<TERM>Life Style</TERM>
+<TERM>Lifestyle</TERM>
+<TERM>Lung</TERM>
+<TERM>METBL</TERM>
+<TERM>Malignant Skin Neoplasm</TERM>
+<TERM>Malignant Tumor of the Skin</TERM>
+<TERM>Man (Taxonomy)</TERM>
+<TERM>Man, Modern</TERM>
+<TERM>Mass Spectrum</TERM>
+<TERM>Mass Spectrum Analysis</TERM>
+<TERM>Measurement</TERM>
+<TERM>Measures</TERM>
+<TERM>Medical</TERM>
+<TERM>Melanoma and Non-Melanoma Skin Cancer</TERM>
+<TERM>Metabolic Biotransformation</TERM>
+<TERM>Metabolic Pathway</TERM>
+<TERM>Metabolic Processes</TERM>
+<TERM>Metabolism</TERM>
+<TERM>Methylation</TERM>
+<TERM>Modeling</TERM>
+<TERM>Modification</TERM>
+<TERM>Morbidity</TERM>
+<TERM>Morbidity - disease rate</TERM>
+<TERM>Mortality</TERM>
+<TERM>Mortality Vital Statistics</TERM>
+<TERM>National Research Council</TERM>
+<TERM>National Research Council (U.S.)</TERM>
+<TERM>Native Americans</TERM>
+<TERM>Oklahoma</TERM>
+<TERM>Organ System, Cardiovascular</TERM>
+<TERM>Outcome</TERM>
+<TERM>Outcome Study</TERM>
+<TERM>Participant</TERM>
+<TERM>Pattern</TERM>
+<TERM>Peripheral</TERM>
+<TERM>Peripheral arterial disease</TERM>
+<TERM>Persons</TERM>
+<TERM>Photometry/Spectrum Analysis, Mass</TERM>
+<TERM>Plasma</TERM>
+<TERM>Population</TERM>
+<TERM>Prevalence</TERM>
+<TERM>Process</TERM>
+<TERM>Protein Methylation</TERM>
+<TERM>Public Health</TERM>
+<TERM>Range</TERM>
+<TERM>Rate</TERM>
+<TERM>Recommendation</TERM>
+<TERM>Recruitment Activity</TERM>
+<TERM>Regression</TERM>
+<TERM>Republic of China</TERM>
+<TERM>Research</TERM>
+<TERM>Research Design</TERM>
+<TERM>Research Priority</TERM>
+<TERM>Research Specimen</TERM>
+<TERM>Respiratory System, Lung</TERM>
+<TERM>Reticuloendothelial System, Blood</TERM>
+<TERM>Reticuloendothelial System, Serum, Plasma</TERM>
+<TERM>Risk</TERM>
+<TERM>Risk Estimate</TERM>
+<TERM>Risk Factors</TERM>
+<TERM>Role</TERM>
+<TERM>Rural Community</TERM>
+<TERM>Rural Population</TERM>
+<TERM>Sampling</TERM>
+<TERM>Sampling Studies</TERM>
+<TERM>Serum, Plasma</TERM>
+<TERM>Severities</TERM>
+<TERM>Skin</TERM>
+<TERM>Skin Cancer</TERM>
+<TERM>Skin Cancer, Including Melanoma</TERM>
+<TERM>Smoker</TERM>
+<TERM>Smoking</TERM>
+<TERM>Smoking Status</TERM>
+<TERM>South Dakota</TERM>
+<TERM>Specimen</TERM>
+<TERM>Spectrometry, Mass</TERM>
+<TERM>Spectroscopy, Mass</TERM>
+<TERM>Spectrum Analyses, Mass</TERM>
+<TERM>Spectrum Analysis, Mass</TERM>
+<TERM>Standards</TERM>
+<TERM>Standards of Weights and Measures</TERM>
+<TERM>Stroke</TERM>
+<TERM>Study Type</TERM>
+<TERM>Study, Outcome</TERM>
+<TERM>Sum</TERM>
+<TERM>Taiwan</TERM>
+<TERM>Toxic effect</TERM>
+<TERM>Toxicities</TERM>
+<TERM>Urinary System, Bladder</TERM>
+<TERM>Urinary System, Urine</TERM>
+<TERM>Urine</TERM>
+<TERM>Vascular Accident, Brain</TERM>
+<TERM>Vascular, Heart</TERM>
+<TERM>Visit</TERM>
+<TERM>atheromatosis</TERM>
+<TERM>atherosclerotic vascular disease</TERM>
+<TERM>base</TERM>
+<TERM>brain attack</TERM>
+<TERM>cardiovascular disease risk</TERM>
+<TERM>cardiovascular disorder</TERM>
+<TERM>cardiovascular disorder risk</TERM>
+<TERM>cardiovascular risk</TERM>
+<TERM>cardiovascular risk factor</TERM>
+<TERM>cerebral vascular accident</TERM>
+<TERM>circulatory system</TERM>
+<TERM>coronary disorder</TERM>
+<TERM>design</TERM>
+<TERM>designing</TERM>
+<TERM>diabetes</TERM>
+<TERM>diabetes risk</TERM>
+<TERM>disease/disorder</TERM>
+<TERM>drinking water</TERM>
+<TERM>follow-up</TERM>
+<TERM>member</TERM>
+<TERM>methylarsonate</TERM>
+<TERM>prospective</TERM>
+<TERM>public health medicine (field)</TERM>
+<TERM>pulmonary</TERM>
+<TERM>recruit</TERM>
+<TERM>response</TERM>
+<TERM>social role</TERM>
+<TERM>socioeconomic</TERM>
+<TERM>socioeconomically</TERM>
+<TERM>socioeconomics</TERM>
+<TERM>stroke</TERM>
+<TERM>study design</TERM>
+<TERM>urinary bladder</TERM>
+<TERM>vapor</TERM>
+</PROJECT_TERMS>
+<PROJECT_TITLE>Arsenic Exposure, Cardiovascular Disease and Diabetes in Native Americans</PROJECT_TITLE>
+<PROJECT_START>09/05/2008</PROJECT_START>
+<PROJECT_END>08/31/2012</PROJECT_END>
+<PHR xsi:nil="true"/>
+<SERIAL_NUMBER>90863</SERIAL_NUMBER>
+<STUDY_SECTION>CASE</STUDY_SECTION>
+<STUDY_SECTION_NAME>Cardiovascular and Sleep Epidemiology Study Section</STUDY_SECTION_NAME>
+<SUPPORT_YEAR>1</SUPPORT_YEAR>
+<SUFFIX>A1</SUFFIX>
+<SUBPROJECT_ID xsi:nil="true"/>
+<TOTAL_COST>813665</TOTAL_COST>
+<TOTAL_COST_SUB_PROJECT xsi:nil="true"/>
+<CORE_PROJECT_NUM>R01HL090863</CORE_PROJECT_NUM>
+<CFDA_CODE>837</CFDA_CODE>
+<PROGRAM_OFFICER_NAME>EDWARDS, MICHAEL W.</PROGRAM_OFFICER_NAME>
+<ED_INST_TYPE>SCHOOLS OF PUBLIC HEALTH</ED_INST_TYPE>
+<AWARD_NOTICE_DATE>2008-09-05</AWARD_NOTICE_DATE>
+</row>
+
+<row>
+<APPLICATION_ID>7465832</APPLICATION_ID>
+<ACTIVITY>R01</ACTIVITY>
+<ADMINISTERING_IC>HL</ADMINISTERING_IC>
+<APPLICATION_TYPE>1</APPLICATION_TYPE>
+<ARRA_FUNDED xsi:nil="true"/>
+<BUDGET_START>04/15/2008</BUDGET_START>
+<BUDGET_END>03/31/2009</BUDGET_END>
+<FOA_NUMBER>PA-07-70</FOA_NUMBER>
+<FULL_PROJECT_NUM>1R01HL089332-01A1</FULL_PROJECT_NUM>
+<FUNDING_ICs>NHLBI:419875\</FUNDING_ICs>
+<FY>2008</FY>
+<NIH_SPENDING_CATS>
+<CATEGORY>Clinical Research</CATEGORY>
+<CATEGORY>Clinical Research - Extramural</CATEGORY>
+<CATEGORY>Digestive Diseases</CATEGORY>
+<CATEGORY>Emerging Infectious Diseases</CATEGORY>
+<CATEGORY>Food Safety</CATEGORY>
+<CATEGORY>Hematology</CATEGORY>
+<CATEGORY>Infectious Diseases</CATEGORY>
+<CATEGORY>Kidney Disease</CATEGORY>
+<CATEGORY>Kidney and Urologic Diseases inc. Nephritis</CATEGORY>
+</NIH_SPENDING_CATS>
+<ORG_CITY>BOSTON</ORG_CITY>
+<ORG_COUNTRY>UNITED STATES</ORG_COUNTRY>
+<ORG_DISTRICT>09</ORG_DISTRICT>
+<ORG_DUNS xsi:nil="true"/>
+<ORG_DEPT xsi:nil="true"/>
+<ORG_FIPS>US</ORG_FIPS>
+<ORG_STATE>MA</ORG_STATE>
+<ORG_ZIPCODE>02199</ORG_ZIPCODE>
+<IC_NAME>NATIONAL HEART, LUNG, AND BLOOD INSTITUTE</IC_NAME>
+<ORG_NAME>MASSACHUSETTS GENERAL HOSPITAL</ORG_NAME>
+<PIS>
+<PI>
+<PI_NAME>GRABOWSKI, ERIC FRANKLIN</PI_NAME>
+<PI_ID>1893595</PI_ID>
+</PI>
+</PIS>
+<PROJECT_TERMS>
+<TERM>Adhesion Molecule</TERM>
+<TERM>Adhesions</TERM>
+<TERM>Adhesives</TERM>
+<TERM>Affect</TERM>
+<TERM>Anti-Phospholipid Antibodies</TERM>
+<TERM>Antibodies</TERM>
+<TERM>Antiphospholipid Antibodies</TERM>
+<TERM>Apoptosis</TERM>
+<TERM>Apoptosis Pathway</TERM>
+<TERM>Appearance</TERM>
+<TERM>Arteries</TERM>
+<TERM>Arterioles</TERM>
+<TERM>Attention</TERM>
+<TERM>Bacterial Toxins</TERM>
+<TERM>Beds</TERM>
+<TERM>Binding</TERM>
+<TERM>Binding (Molecular Function)</TERM>
+<TERM>Bizzozero&apos;s corpuscle/cell</TERM>
+<TERM>Blood</TERM>
+<TERM>Blood Coagulation Factor I</TERM>
+<TERM>Blood Coagulation Factor III</TERM>
+<TERM>Blood Coagulation Factor One</TERM>
+<TERM>Blood Coagulation Factor VII, Activated</TERM>
+<TERM>Blood Factor One</TERM>
+<TERM>Blood Platelets</TERM>
+<TERM>Blood Vessels</TERM>
+<TERM>Blood flow</TERM>
+<TERM>Blood granulocytic cell</TERM>
+<TERM>Blood leukocyte</TERM>
+<TERM>Body Tissues</TERM>
+<TERM>CD142 Antigens</TERM>
+<TERM>CD54 (ICAM 1)</TERM>
+<TERM>CD54 Antigens</TERM>
+<TERM>CD61 Antigens</TERM>
+<TERM>CD62P Antigens</TERM>
+<TERM>Cardiac artery</TERM>
+<TERM>Cell Adhesion Molecules</TERM>
+<TERM>Cell Death, Programmed</TERM>
+<TERM>Cell membrane</TERM>
+<TERM>Cell secretion</TERM>
+<TERM>Cell surface</TERM>
+<TERM>Cells</TERM>
+<TERM>Cellular Secretion</TERM>
+<TERM>Cellular injury</TERM>
+<TERM>Cessation of life</TERM>
+<TERM>Childhood</TERM>
+<TERM>Cleaved cell</TERM>
+<TERM>Clotting</TERM>
+<TERM>Coagulation</TERM>
+<TERM>Coagulation Factor I</TERM>
+<TERM>Coagulation Factor III</TERM>
+<TERM>Coagulation Factor One</TERM>
+<TERM>Coagulation Factor VIIa</TERM>
+<TERM>Coagulation Process</TERM>
+<TERM>Coagulin</TERM>
+<TERM>Collagen</TERM>
+<TERM>Coma</TERM>
+<TERM>Comatose</TERM>
+<TERM>Condition</TERM>
+<TERM>Coronary artery</TERM>
+<TERM>Culture Media</TERM>
+<TERM>Cytoplasmic Membrane</TERM>
+<TERM>DIF</TERM>
+<TERM>Death</TERM>
+<TERM>Deetjeen&apos;s body</TERM>
+<TERM>Deposit</TERM>
+<TERM>Deposition</TERM>
+<TERM>Disease</TERM>
+<TERM>Disorder</TERM>
+<TERM>Disruption</TERM>
+<TERM>Down-Regulation</TERM>
+<TERM>Down-Regulation (Physiology)</TERM>
+<TERM>Downregulation</TERM>
+<TERM>E coli</TERM>
+<TERM>EHEC</TERM>
+<TERM>EHEC, Escherichia coli</TERM>
+<TERM>Endopeptidases</TERM>
+<TERM>Endothelial Cells</TERM>
+<TERM>Endothelium</TERM>
+<TERM>Endothelium, Vascular</TERM>
+<TERM>Enhancers</TERM>
+<TERM>Ensure</TERM>
+<TERM>Enterohemorrhagic E coli</TERM>
+<TERM>Enterohemorrhagic E. coli</TERM>
+<TERM>Enterohemorrhagic E.coli</TERM>
+<TERM>Enterohemorrhagic Escherichia coli</TERM>
+<TERM>Enterohemorrhagic strain of E coli</TERM>
+<TERM>Enterohemorrhagic strain of E. coli</TERM>
+<TERM>Enterohemorrhagic strain of Escherichia coli</TERM>
+<TERM>Epidemic</TERM>
+<TERM>Epithelial Cells</TERM>
+<TERM>Escherichia coli</TERM>
+<TERM>Escherichia coli EHEC</TERM>
+<TERM>Esteroproteases</TERM>
+<TERM>Extracellular Matrix, Integrins</TERM>
+<TERM>Factor I</TERM>
+<TERM>Factor III</TERM>
+<TERM>Factor One</TERM>
+<TERM>Factor VII, Activated</TERM>
+<TERM>Factor VIIa</TERM>
+<TERM>Fibrin</TERM>
+<TERM>Fibrinogen</TERM>
+<TERM>Fostering</TERM>
+<TERM>GMP-140</TERM>
+<TERM>GPI</TERM>
+<TERM>GPIIIa</TERM>
+<TERM>Gasser&apos;s Syndrome</TERM>
+<TERM>Glass</TERM>
+<TERM>Glomerular Procoagulant Activity</TERM>
+<TERM>Gly-PtdIns</TERM>
+<TERM>Glycoprotein ICAM 1 (human clone pHRVr1 deblocked protein moiety reduced)</TERM>
+<TERM>Glycosyl-Phosphatidylinositol</TERM>
+<TERM>Glycosylated Phosphatidylinositols</TERM>
+<TERM>Glycosylphosphatidylinositols</TERM>
+<TERM>Granular Leukocytes</TERM>
+<TERM>Granulocytic cell</TERM>
+<TERM>Hayem&apos;s elementary corpuscle</TERM>
+<TERM>Heart artery</TERM>
+<TERM>Hemolytic-Uremic Syndrome</TERM>
+<TERM>Hour</TERM>
+<TERM>Human</TERM>
+<TERM>Human, General</TERM>
+<TERM>ICAM-1</TERM>
+<TERM>Image</TERM>
+<TERM>Impairment</TERM>
+<TERM>Incubated</TERM>
+<TERM>Inflammatory</TERM>
+<TERM>Integrin beta3</TERM>
+<TERM>Integrins</TERM>
+<TERM>Intercellular adhesion molecule 1</TERM>
+<TERM>Interruption</TERM>
+<TERM>Intestinal</TERM>
+<TERM>Intestines</TERM>
+<TERM>Kidney</TERM>
+<TERM>Kidney Failure</TERM>
+<TERM>Kidney Insufficiency</TERM>
+<TERM>LECAM-3</TERM>
+<TERM>Lead</TERM>
+<TERM>Leukocytes</TERM>
+<TERM>Link</TERM>
+<TERM>Localized</TERM>
+<TERM>Man (Taxonomy)</TERM>
+<TERM>Man, Modern</TERM>
+<TERM>Marrow leukocyte</TERM>
+<TERM>Marrow platelet</TERM>
+<TERM>Measurement</TERM>
+<TERM>Mediating</TERM>
+<TERM>Membrane</TERM>
+<TERM>Messenger RNA</TERM>
+<TERM>Microscopy, Video</TERM>
+<TERM>Modeling</TERM>
+<TERM>Molecular Interaction</TERM>
+<TERM>Necrosis</TERM>
+<TERM>Necrotic</TERM>
+<TERM>Organ</TERM>
+<TERM>OxLDL</TERM>
+<TERM>P-Selectin</TERM>
+<TERM>Pathway interactions</TERM>
+<TERM>Pb element</TERM>
+<TERM>Peptidases</TERM>
+<TERM>Peptide Hydrolases</TERM>
+<TERM>Peptide Peptidohydrolases</TERM>
+<TERM>Phenotype</TERM>
+<TERM>Phosphatides</TERM>
+<TERM>Phosphatidylserines</TERM>
+<TERM>Phospholipids</TERM>
+<TERM>Plasma Membrane</TERM>
+<TERM>Platelet GPIIIa</TERM>
+<TERM>Platelet Glycoprotein IIIa</TERM>
+<TERM>Platelet Membrane Glycoprotein IIIa</TERM>
+<TERM>Platelet alpha-Granule Membrane Protein</TERM>
+<TERM>Platelets</TERM>
+<TERM>Play</TERM>
+<TERM>Process</TERM>
+<TERM>Production</TERM>
+<TERM>Proteases</TERM>
+<TERM>Proteinases</TERM>
+<TERM>Proteins</TERM>
+<TERM>Proteolytic Enzyme</TERM>
+<TERM>Proteolytic Enzymes</TERM>
+<TERM>Prothrombinase</TERM>
+<TERM>Public Health</TERM>
+<TERM>RNA, Messenger</TERM>
+<TERM>Range</TERM>
+<TERM>Rate</TERM>
+<TERM>Receptor Protein</TERM>
+<TERM>Recombinants</TERM>
+<TERM>Relative</TERM>
+<TERM>Relative (related person)</TERM>
+<TERM>Renal Failure</TERM>
+<TERM>Renal Insufficiency</TERM>
+<TERM>Reporting</TERM>
+<TERM>Resolution</TERM>
+<TERM>Reticuloendothelial System, Blood</TERM>
+<TERM>Reticuloendothelial System, Leukocytes</TERM>
+<TERM>Reticuloendothelial System, Platelets</TERM>
+<TERM>Ristocetin Cofactor</TERM>
+<TERM>Ristocetin-Willebrand Factor</TERM>
+<TERM>Role</TERM>
+<TERM>Route</TERM>
+<TERM>SLT-I</TERM>
+<TERM>SLTI</TERM>
+<TERM>STEC</TERM>
+<TERM>Seizures</TERM>
+<TERM>Selectins</TERM>
+<TERM>Serine Phosphoglycerides</TERM>
+<TERM>Shiga Toxin</TERM>
+<TERM>Shiga Toxin 1</TERM>
+<TERM>Shiga toxin-producing E coli</TERM>
+<TERM>Shiga toxin-producing E. coli</TERM>
+<TERM>Shiga toxin-producing E.coli</TERM>
+<TERM>Shiga toxin-producing Escherichia coli</TERM>
+<TERM>Shiga-Like Toxin I</TERM>
+<TERM>Shigella Cytotoxin</TERM>
+<TERM>Shigella Toxin</TERM>
+<TERM>Site</TERM>
+<TERM>Slide</TERM>
+<TERM>Stability, mRNA</TERM>
+<TERM>Stress</TERM>
+<TERM>Structure of arteriole</TERM>
+<TERM>Stx Protein</TERM>
+<TERM>Stx Protein, Shigella dysenteria</TERM>
+<TERM>Stx1 Protein</TERM>
+<TERM>Surface</TERM>
+<TERM>System</TERM>
+<TERM>System, LOINC Axis 4</TERM>
+<TERM>TFPI</TERM>
+<TERM>TNF</TERM>
+<TERM>TNF A</TERM>
+<TERM>TNF gene</TERM>
+<TERM>TNFSF2</TERM>
+<TERM>Testing</TERM>
+<TERM>Therapeutic</TERM>
+<TERM>Therapeutic Intervention</TERM>
+<TERM>Thick</TERM>
+<TERM>Thickness</TERM>
+<TERM>Thrombase</TERM>
+<TERM>Thrombin</TERM>
+<TERM>Thrombocytes</TERM>
+<TERM>Thromboplastin</TERM>
+<TERM>Thrombosis</TERM>
+<TERM>Thrombus</TERM>
+<TERM>Tissue Factor</TERM>
+<TERM>Tissue Factor Procoagulant</TERM>
+<TERM>Tissue Thromboplastin</TERM>
+<TERM>Tissues</TERM>
+<TERM>Toxin</TERM>
+<TERM>Tumor Necrosis Factor Gene</TERM>
+<TERM>United States</TERM>
+<TERM>Up-Regulation</TERM>
+<TERM>Up-Regulation (Physiology)</TERM>
+<TERM>Upregulation</TERM>
+<TERM>Urinary System, Kidney</TERM>
+<TERM>Urothromboplastin</TERM>
+<TERM>VT1 Cytotoxin</TERM>
+<TERM>Vascular Endothelium</TERM>
+<TERM>Vero Cytotoxin VT1</TERM>
+<TERM>Verocytotoxin 1</TERM>
+<TERM>Verotoxin I</TERM>
+<TERM>Video Microscopy</TERM>
+<TERM>Videomicrography</TERM>
+<TERM>Videomicroscopy</TERM>
+<TERM>Vitronectin Receptors</TERM>
+<TERM>WHBLOOD</TERM>
+<TERM>White Blood Cells</TERM>
+<TERM>White Cell</TERM>
+<TERM>Whole Blood</TERM>
+<TERM>Work</TERM>
+<TERM>arteriole</TERM>
+<TERM>beta(3) Integrin</TERM>
+<TERM>bowel</TERM>
+<TERM>cell adhesion protein</TERM>
+<TERM>cell damage</TERM>
+<TERM>cell injury</TERM>
+<TERM>cleaved</TERM>
+<TERM>cytokine</TERM>
+<TERM>digital</TERM>
+<TERM>disease/disorder</TERM>
+<TERM>experiment</TERM>
+<TERM>experimental research</TERM>
+<TERM>experimental study</TERM>
+<TERM>exposed human population</TERM>
+<TERM>fibrinogenase</TERM>
+<TERM>food-born</TERM>
+<TERM>food-borne</TERM>
+<TERM>foodborn</TERM>
+<TERM>foodborne</TERM>
+<TERM>gene product</TERM>
+<TERM>granulocyte</TERM>
+<TERM>growth media</TERM>
+<TERM>heavy metal Pb</TERM>
+<TERM>heavy metal lead</TERM>
+<TERM>human exposure</TERM>
+<TERM>imaging</TERM>
+<TERM>in vitro Model</TERM>
+<TERM>in vivo</TERM>
+<TERM>inhibitor</TERM>
+<TERM>inhibitor/antagonist</TERM>
+<TERM>intervention therapy</TERM>
+<TERM>mRNA</TERM>
+<TERM>mRNA Stability</TERM>
+<TERM>membrane structure</TERM>
+<TERM>monolayer</TERM>
+<TERM>ox-LDL</TERM>
+<TERM>oxidized LDL</TERM>
+<TERM>oxidized low density lipoprotein</TERM>
+<TERM>pathway</TERM>
+<TERM>pediatric</TERM>
+<TERM>plasmalemma</TERM>
+<TERM>protease</TERM>
+<TERM>proteinase</TERM>
+<TERM>public health medicine (field)</TERM>
+<TERM>receptor</TERM>
+<TERM>renal</TERM>
+<TERM>research study</TERM>
+<TERM>shear stress</TERM>
+<TERM>social role</TERM>
+<TERM>thrombocyte/platelet</TERM>
+<TERM>tissue factor pathway inhibitor</TERM>
+<TERM>vWF</TERM>
+<TERM>vascular</TERM>
+<TERM>von Willebrand Factor</TERM>
+<TERM>von Willebrand Protein</TERM>
+<TERM>white blood cell</TERM>
+<TERM>white blood corpuscle</TERM>
+</PROJECT_TERMS>
+<PROJECT_TITLE>Tissue Factor, Flow, and Platelet Adhesion/Aggregation on Activated Endothelium</PROJECT_TITLE>
+<PROJECT_START>04/15/2008</PROJECT_START>
+<PROJECT_END>03/31/2012</PROJECT_END>
+<PHR xsi:nil="true"/>
+<SERIAL_NUMBER>89332</SERIAL_NUMBER>
+<STUDY_SECTION>BTSS</STUDY_SECTION>
+<STUDY_SECTION_NAME>Bioengineering, Technology and Surgical Sciences Study Section</STUDY_SECTION_NAME>
+<SUPPORT_YEAR>1</SUPPORT_YEAR>
+<SUFFIX>A1</SUFFIX>
+<SUBPROJECT_ID xsi:nil="true"/>
+<TOTAL_COST>419875</TOTAL_COST>
+<TOTAL_COST_SUB_PROJECT xsi:nil="true"/>
+<CORE_PROJECT_NUM>R01HL089332</CORE_PROJECT_NUM>
+<CFDA_CODE>837</CFDA_CODE>
+<PROGRAM_OFFICER_NAME>LINK, REBECCA P.</PROGRAM_OFFICER_NAME>
+<ED_INST_TYPE xsi:nil="true"/>
+<AWARD_NOTICE_DATE>2008-04-14</AWARD_NOTICE_DATE>
+</row>
+
