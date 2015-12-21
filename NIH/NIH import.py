@@ -8,10 +8,10 @@ import xml.etree.ElementTree as ET
 import MySQLdb as mdb
 from datetime import datetime
 
-connection = mdb.connect(user="jzhou",
-                           passwd="t1wWYX5ZnJ*E^Gz&",
-                           db="fsriotemp",
-                           host="wsumsftp01")
+connection = mdb.connect(user="",
+                           passwd="",
+                           db="",
+                           host="")
 
 # def run_sql_file(filename, data_to_upload, db_connection):
 #     """

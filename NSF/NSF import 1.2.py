@@ -15,10 +15,10 @@ import MySQLdb as mdb
 from datetime import datetime
 
 # setting up the connection to DB
-connection = mdb.connect(user="jzhou",
-                           passwd="t1wWYX5ZnJ*E^Gz&",
-                           db="fsriotemp",
-                           host="wsumsftp01")
+connection = mdb.connect(user="",
+                           passwd="",
+                           db="",
+                           host="")
 
 connection.autocommit(True)
 
